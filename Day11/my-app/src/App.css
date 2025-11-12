@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: #f3f3f3;
+}
+
+.header {
+  background-color: burlywood;
+  color: white;
+  display: flex;
+  align-items: center;
+  padding: 10px 20px;
+}
+.header-logo{
+  width: 100px;
+  height: 100px;
+}
